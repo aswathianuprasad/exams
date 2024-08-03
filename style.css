@@ -1,0 +1,68 @@
+.sec1{
+    background-color: rgba(96, 20, 100, 0.768);
+    min-height: 80px;
+    text-align: center;
+}
+.img{
+    width: 80px;
+}
+.sec2{
+    /* background-color: rgb(240, 138, 227); */
+    background-image: url(cool.avif);
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+    text-align: center;
+}
+.h1{
+    color: rgb(57, 43, 10);
+    font-weight: 10px;
+    font-size: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 100px;
+}
+.para{
+    color: beige;
+}
+.sec3{
+    background-color: rgb(167, 154, 251);
+    min-height: 100px;
+    text-align: center;
+}
+.pro{
+    color: rgb(239, 26, 26);
+    font-weight: 10px;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+}
+.sec4{
+    background-color: rgb(123, 188, 209);
+    min-height: 200px;
+    text-align: center;
+}
+.new{
+    color: rgb(239, 26, 26);
+    font-weight: 10px;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+}
+.sec5{
+    background-color: rgb(207, 175, 244);
+    min-height: 200px;
+    text-align: center;
+}
+.go{
+  color: chocolate;
+  font-size: 30px;
+  font-family: fantasy;
+  margin-top: 10px;
+}
+.we{
+    color: rgb(247, 243, 240);
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
